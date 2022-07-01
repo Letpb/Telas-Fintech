@@ -1,0 +1,71 @@
+.designer{
+    background: linear-gradient(to left, #8e2de2,#72e29d);;
+}
+.btn-config{
+    height: 55px;
+}
+
+.espace{
+    margin-top: 150px;
+}
+
+
+.formulario{
+    border: 1px solid rgba(190, 190, 190, 0.4);
+    border-radius: 5px;
+    box-shadow: 1px 2px #c9c9c9;
+    width: 400px;
+    padding: 15px;
+    background-color: white;
+
+}
+.img{
+    border-radius: 100px;
+    width:230px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.input-config{
+    color: white;
+    font-weight: bold;
+    font-size: 20px
+}
+.btn-link {
+    
+    border: 1px;
+    background: linear-gradient(to left, #8e2de2,#72e29d);
+    color: white;
+    width: 280px;
+    text-align: center;
+    padding: 4px;
+    border-radius:4px ;
+   
+}
+.btn-link:hover {
+    
+    color: black;
+   
+}
+
+.link-decor {
+    text-decoration: none;
+    color: black;
+}
+
+.margin-config{
+    margin-bottom: 10px;
+}
+.text-input{
+    text-align: left;
+}
+.width-bord{
+    width: 96%;
+    height: 50px;
+
+}
+
+.btn-outline-primary:hover{
+    background: linear-gradient(to right,  #c299e5,#72e29d);
+
+}
